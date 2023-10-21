@@ -1,0 +1,23 @@
+  
+  Project Name : HR Analytics Dashboard.
+
+  Problem Statement: 
+
+ 1. Attrition by Education
+ 2. Attrition by Age
+ 3. Job Role Use the table
+ 4. Attrition by Salary
+ 5. Attrition by Years At Company
+ 6. Attrition by Job Role
+
+ Card: Count of Employee
+       Attrition
+       Attrition Rate
+       Avg Age
+       Avg Salary
+       Avg Years
+
+ Slicer: Company Segment 
+         Gender
+     
+                 
